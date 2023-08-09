@@ -1,6 +1,6 @@
 Entire app is going to be within <App /> component, and the component will be hooked on to the root div
 
-Inside Chat, there will be ChannelLisContainer and ChannelLisContainer
+Inside Chat, there will be ChannelContainer and ChannelListContainer
 
 We need to crate an instance of StreamChat
 
